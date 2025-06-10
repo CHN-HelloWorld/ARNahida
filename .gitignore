@@ -1,0 +1,70 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# Ignore auto-generated VS/MD/Consulo solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vscode/
+.vs/
+.vsconfig
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+*.aab
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package manager
+Packages/packages-lock.json
+
+# Ignore manually added packages
+com.*
+upm-xr*
+
+# Consulo
+.consulo/
+
+# ExportedObj
+ExportedObj/
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Others
+*.log

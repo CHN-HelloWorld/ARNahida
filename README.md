@@ -152,6 +152,5 @@ ARNahida/
 
 > 下面展示项目在实际设备上的运行效果，图片仅供参考，具体效果请以实际体验为准。
 
-![运行效果1](your_image_link_1.png)
-![运行效果2](your_image_link_2.png)
-![运行效果3](your_image_link_3.png)
+![运行效果1](image/1.jpg)
+![运行效果2](image/2.jpg)
